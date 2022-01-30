@@ -1,1 +1,1 @@
-# Simle Jetpack compose App
+# Simple Jetpack compose App
